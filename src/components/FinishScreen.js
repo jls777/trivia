@@ -22,7 +22,7 @@ function FinishScreen() {
         className="btn btn-ui"
         onClick={() => dispatch({ type: "restart" })}
       >
-        Restart quiz
+        Restart trivia
       </button>
     </>
   );
