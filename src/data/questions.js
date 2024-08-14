@@ -39,25 +39,25 @@ const questions = [
     question: "What is the brightest planet in the night sky?",
     options: ["Jupiter", "Saturn", "Uranus", "Venus"],
     correctOption: 3,
-    points: 30,
+    points: 10,
   },
   {
     question: "What planet is nicknamed the Red Planet?",
     options: ["Saturn", "Venus", "Mars", "Jupiter"],
     correctOption: 2,
-    points: 20,
+    points: 10,
   },
   {
     question: "What is the third planet from the Sun?",
     options: ["Uranus", "Mars", "Jupiter", "Earth"],
     correctOption: 3,
-    points: 20,
+    points: 10,
   },
   {
     question: "The moon Titan orbits what planet?",
     options: ["Mercury", "Mars", "Earth", "Saturn"],
     correctOption: 3,
-    points: 30,
+    points: 10,
   },
 ];
 
