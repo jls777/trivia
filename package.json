@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jls777.github.io/react-quiz",
-  "name": "react-quiz",
+  "homepage": "https://jls777.github.io/trivia",
+  "name": "trivia-quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
