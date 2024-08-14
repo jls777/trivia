@@ -1,11 +1,11 @@
 :root {
-  --color-darkest: #343a40;
-  --color-dark: #495057;
+  --color-darkest: #47628a;
+  --color-dark: #8fa8d5;
   --color-medium: #ced4da;
   --color-light: #f1f3f5;
 
-  --color-theme: #1098ad;
-  --color-accent: #ffa94d;
+  --color-theme: #6cbc7c;
+  --color-accent: #e7664c;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
@@ -48,6 +48,10 @@ body {
   justify-content: space-between;
 }
 
+.app-header h1 {
+  margin: 0 auto;
+}
+
 .error {
   text-align: center;
   font-size: 1.6rem;
@@ -62,7 +66,7 @@ img {
 }
 
 h1 {
-  font-family: "Codystar";
+  font-family: cursive;
   font-size: 5.6rem;
 }
 
